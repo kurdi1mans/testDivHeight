@@ -1,0 +1,23 @@
+.flex-box
+{
+    border: 1px solid;
+    display: flex;
+    /* justify-content: center; */
+    /* align-items: center; */
+    height: 90%;
+}
+
+h1{
+    text-align: center;
+}
+
+.p-item
+{
+    /* border: 1px solid red; */
+    background-color: #f1f1f1;
+    width:200px;
+    margin:10px;
+    text-align:center;
+    line-height:75px;
+    font-size: 25px;
+}
